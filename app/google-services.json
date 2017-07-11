@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921863309577",
+    "firebase_url": "https://schat-bc74c.firebaseio.com",
+    "project_id": "schat-bc74c",
+    "storage_bucket": "schat-bc74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921863309577:android:148cd56ad54f7f27",
+        "android_client_info": {
+          "package_name": "com.example.vellaichamy.schat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921863309577-nmq9p7t95f4550m8gdo6a98orhono32e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vellaichamy.schat",
+            "certificate_hash": "d3b17943f550158f10d5f5ebb37982b08357474c"
+          }
+        },
+        {
+          "client_id": "921863309577-203826hi1j5fgkl753a5r1lhoutqj80s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3XiUvEhHknx68tWA69HjEkkIt7wGlR1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921863309577-203826hi1j5fgkl753a5r1lhoutqj80s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
